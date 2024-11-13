@@ -26,4 +26,3 @@ The game uses **TCP (Transmission Control Protocol)** to maintain reliable, orde
 2. **Java Clients**: Each client is implemented in Java and connects to the server over TCP. The clients send guesses to the server and receive hints in response. The Java clients handle server responses to keep gameplay smooth and engaging.
 
 This setup allows for real-time multiplayer interaction, with clients and the server communicating seamlessly across different programming environments.
-# TCP-IP-guessing-game
